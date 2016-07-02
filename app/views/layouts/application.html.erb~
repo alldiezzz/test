@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HarukaeduTest</title>
+</head>
+<body>
+
+<%= yield %>
+aaaa
+
+</body>
+</html>

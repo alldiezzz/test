@@ -1,0 +1,3 @@
+arr = ARGV
+new_array = arr.flatten
+puts "Output: #{new_array}"
